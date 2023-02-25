@@ -15,6 +15,7 @@ public class loader {
                 fileStream.write(buffArray,0,ct);
             }
             // crashes occur most often here :(
+            // need to add a timeout so third world internet doesn't cause the process to hang
             buffStream.close();
             fileStream.close();
 
