@@ -1,6 +1,3 @@
-# forgePayloadLoader
-
-
 # Usage
 
 Edit the variables ```file_url``` and ```filePath``` to your target paths, make sure your mc has permissions to your download location
